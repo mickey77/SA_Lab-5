@@ -1,0 +1,5 @@
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Consumer\obj\Debug\netcoreapp3.1\Consumer.csproj.AssemblyReference.cache
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Consumer\obj\Debug\netcoreapp3.1\Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Consumer\obj\Debug\netcoreapp3.1\Consumer.AssemblyInfoInputs.cache
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Consumer\obj\Debug\netcoreapp3.1\Consumer.AssemblyInfo.cs
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Consumer\obj\Debug\netcoreapp3.1\Consumer.csproj.CoreCompileInputs.cache

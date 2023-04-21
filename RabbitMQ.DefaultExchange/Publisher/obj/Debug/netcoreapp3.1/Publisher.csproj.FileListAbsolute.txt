@@ -1,0 +1,17 @@
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\bin\Debug\netcoreapp3.1\Publisher.exe
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\bin\Debug\netcoreapp3.1\Publisher.deps.json
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.json
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.dev.json
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\bin\Debug\netcoreapp3.1\Publisher.dll
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\bin\Debug\netcoreapp3.1\Publisher.pdb
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.AssemblyReference.cache
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\obj\Debug\netcoreapp3.1\Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CopyComplete
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb
+C:\Users\Inna\Desktop\py4e\RabbitMQ\RabbitMQ\RabbitMQ.DefaultExchange\Publisher\obj\Debug\netcoreapp3.1\Publisher.genruntimeconfig.cache
